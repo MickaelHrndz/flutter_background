@@ -1,3 +1,8 @@
+## 1.3.2
+
+* Updates the minimum supported SDK version to Flutter 3.44/Dart 3.12.
+* Migrates to built-in Kotlin.
+
 ## 1.3.1
 
 * Fix battery optimization callback not being invoked on Android
